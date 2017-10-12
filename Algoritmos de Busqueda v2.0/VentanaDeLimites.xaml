@@ -1,0 +1,8 @@
+﻿<Window x:Name="ventana_de_limites" x:Class="Algoritmos_de_Busqueda_v2._0.VentanaDeLimites"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Limites" Height="500" Width="300" Icon="img/panda.ico">
+	<Grid>
+		<TextBox x:Name="tbLimites"></TextBox>
+	</Grid>
+</Window>
